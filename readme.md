@@ -1,4 +1,4 @@
-#### C++ Project to serialize and deserialize files
+# C++ Project to serialize and deserialize files
 
 Application: This project can be applied to any domain where data needs to be transferred between applications on different platforms.
 
